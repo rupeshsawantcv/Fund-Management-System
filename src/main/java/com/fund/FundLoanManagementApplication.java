@@ -9,6 +9,7 @@ public class FundLoanManagementApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FundLoanManagementApplication.class, args);
 		System.out.println("Run Succesfully....");
+		System.out.println("Done by rupesh sawant...");
 	}
 
 }
